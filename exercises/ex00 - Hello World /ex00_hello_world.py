@@ -1,4 +1,4 @@
-"""My first exercise exercise in COMP110!"""
+"""My first exercise exercise in COMP0110!"""
 
 __author__ = "730489756"
 
